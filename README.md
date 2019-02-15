@@ -1,2 +1,2 @@
 # TB_MATLAB
-running by matlab R2017a
+<League of Legends> TB tier code running by matlab R2017a
